@@ -18,3 +18,7 @@ Design and implement an automated infrastructure deployment and monitoring syste
 # Scripts
 
 Please see the puppet script section under main branch for the script file
+
+# Video explaining project
+
+https://drive.google.com/file/d/1XQFBkDp6zh4hm2Hbzo4YcrhU43_rDsPh/view?usp=sharing
