@@ -21,4 +21,4 @@ Please see the puppet script section under main branch for the script file
 
 # Video explaining project
 
-https://drive.google.com/file/d/1XQFBkDp6zh4hm2Hbzo4YcrhU43_rDsPh/view?usp=sharing
+https://youtu.be/XB-I1D0lQAo
