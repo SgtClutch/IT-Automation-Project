@@ -13,3 +13,8 @@ Design and implement an automated infrastructure deployment and monitoring syste
 # Network Diagram
 
 ![image](https://github.com/SgtClutch/IT-Automation-Project/assets/59116892/f8881e10-0ad2-4675-a8c8-28003f4690ab)
+
+
+# Scripts
+
+Please see the puppet script section under main branch for the script file
